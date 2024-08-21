@@ -1,7 +1,6 @@
 # CODESOFT
 This repository include the task provide by the codesoft for my web development internship. 
 
-
 --------task-1 ------ 
 Professional Calculator
 This project is a simple yet professional-looking calculator built using HTML, CSS, and JavaScript. It was created as part of a task for the Codesoft Internship.
